@@ -1,3 +1,11 @@
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/ffffff/moon-symbol.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/ios-filled/50/000000/sun--v1.png" />
+    <img alt="Mode Icon" src="https://img.icons8.com/ios-filled/50/000000/sun--v1.png" width="35"/>
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=👋+Welcome+to+Adesh+Sachan's+GitHub!;Full+Stack+Developer+%7C+Java+%26+Python+Enthusiast;Building+Scalable+Web+Applications+💻" alt="Typing SVG" />
 </p>
