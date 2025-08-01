@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Welcome+to+Adesh+Sachan's+GitHub!;Full+Stack+Developer+%7C+Java+%26+Python+Enthusiast;Building+Scalable+Web+Applications+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=👋+Welcome+to+Adesh+Sachan's+GitHub!;Full+Stack+Developer+%7C+Java+%26+Python+Enthusiast;Building+Scalable+Web+Applications+💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,34 +29,33 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack (Circular Icons)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" style="border-radius:50%;" />
-  <img src="https://img.shields.io/badge/Matplotlib-3C5280?style=for-the-badge&logo=plotly&logoColor=white" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" style="border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" style="border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" style="border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" style="border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" style="border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" style="border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" style="border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" style="border-radius:50%;"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-1. **[Authentication and User Management App](https://github.com/Adesh-1/java-projects/tree/main/Login-Register-Project)** 🔐  
+1. **[Authentication and User Management App](https://github.com/Adesh-1/Login-Register-Project)** 🔐  
    - Secure login & registration system with **JDBC & MySQL** backend  
    - Handles **form validation** and **user session management** efficiently  
 
-2. **[Dynamic Web Application (Java & JSP)](https://github.com/Adesh-1/java-projects/tree/main/sevelet-project)** 🌐  
+2. **[Dynamic Web Application (Java & JSP)](https://github.com/Adesh-1/Sevelet-Project)** 🌐  
    - Multi-page web app with **Servlets, JSP, and MVC architecture**  
    - Supports **form handling** and **server-side processing**  
 
-3. **[Currency Converter](https://github.com/Adesh-1/java-projects/blob/main/CurrencyConverter.java)** 💱  
-   - GUI-based currency converter using **Java Swing & Servlets** with real-time calculations  
+3. **[Currency Converter](https://github.com/Adesh-1/Currency-Converter)** 💱  
+   - GUI-based currency converter using **Java Swing & Servlets**  
    - Features **dynamic input validation** and **intuitive interface**  
 
 ---
@@ -64,17 +63,17 @@
 ## 📌 Pinned Projects Showcase
 
 <p align="center">
-  <a href="https://github.com/Adesh-1/java-projects/tree/main/Login-Register-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adesh-1&repo=java-projects&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/Adesh-1/Login-Register-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adesh-1&repo=Login-Register-Project&theme=tokyonight&show_owner=true" />
   </a>
-  <a href="https://github.com/Adesh-1/java-projects/tree/main/sevelet-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adesh-1&repo=java-projects&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/Adesh-1/Sevelet-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adesh-1&repo=Sevelet-Project&theme=tokyonight&show_owner=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adesh-1/java-projects/blob/main/CurrencyConverter.java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adesh-1&repo=java-projects&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/Adesh-1/Currency-Converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adesh-1&repo=Currency-Converter&theme=tokyonight&show_owner=true" />
   </a>
 </p>
 
@@ -98,9 +97,15 @@
 
 ## 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Adesh-1?theme=dark&font=source_code_pro&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Adesh-1?theme=dark&font=source_code_pro&ext=contest&cache_seconds=3600)
 
-*(Shows problems solved, ranking, and contest performance in real-time.)*
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day"/>
+</p>
 
 ---
 
