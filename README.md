@@ -96,7 +96,7 @@
   <a href="https://www.linkedin.com/in/adesh-sachan/"><img src="https://img.icons8.com/color/96/linkedin.png" width="50" style="border-radius:50%;"/></a>
   <a href="https://github.com/Adesh-1"><img src="https://img.icons8.com/ios-glyphs/96/github.png" width="50" style="border-radius:50%;"/></a>
   <a href="https://www.hackerrank.com/profile/Adesh_1"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50" style="border-radius:50%;"/></a>
-  <a href="https://leetcode.com/u/Adesh-1/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" width="50" style="border-radius:50%;"/></a>
+  <a href="https://leetcode.com/u/Adesh-1/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" style="border-radius:50%; background-color:white; padding:5px;"/></a>
   <a href="https://x.com/Adesh1123"><img src="https://img.icons8.com/color/96/twitterx--v1.png" width="50" style="border-radius:50%;"/></a>
 </p>
 
