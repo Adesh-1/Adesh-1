@@ -44,36 +44,17 @@
 
 ---
 
-## 📂 Featured Projects
-
-1. **[Authentication and User Management App](https://github.com/Adesh-1/Login-Register-Project)** 🔐  
-   - Secure login & registration system with **JDBC & MySQL** backend  
-   - Handles **form validation** and **user session management** efficiently  
-
-2. **[Dynamic Web Application (Java & JSP)](https://github.com/Adesh-1/Sevelet-Project)** 🌐  
-   - Multi-page web app with **Servlets, JSP, and MVC architecture**  
-   - Supports **form handling** and **server-side processing**  
-
-3. **[Currency Converter](https://github.com/Adesh-1/Currency-Converter)** 💱  
-   - GUI-based currency converter using **Java Swing & Servlets**  
-   - Features **dynamic input validation** and **intuitive interface**  
-
----
-
-## 📌 Pinned Projects Showcase
+## 📌 Pinned Projects Showcase (Custom Badges)
 
 <p align="center">
-  <a href="https://github.com/Adesh-1/Login-Register-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adesh-1&repo=Login-Register-Project&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/Adesh-1/java-projects/tree/main/Login-Register-Project">
+    <img src="https://img.shields.io/badge/Login%20&%20Register%20System-View%20Project-1E90FF?style=for-the-badge&logo=java&logoColor=white" />
   </a>
-  <a href="https://github.com/Adesh-1/Sevelet-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adesh-1&repo=Sevelet-Project&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/Adesh-1/java-projects/tree/main/sevelet-project">
+    <img src="https://img.shields.io/badge/Dynamic%20Web%20App-View%20Project-32CD32?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Adesh-1/Currency-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adesh-1&repo=Currency-Converter&theme=tokyonight&show_owner=true" />
+  <a href="https://github.com/Adesh-1/java-projects/blob/main/CurrencyConverter.java">
+    <img src="https://img.shields.io/badge/Currency%20Converter-View%20Project-FF8C00?style=for-the-badge&logo=java&logoColor=white" />
   </a>
 </p>
 
@@ -115,7 +96,7 @@
   <a href="https://www.linkedin.com/in/adesh-sachan/"><img src="https://img.icons8.com/color/96/linkedin.png" width="50" style="border-radius:50%;"/></a>
   <a href="https://github.com/Adesh-1"><img src="https://img.icons8.com/ios-glyphs/96/github.png" width="50" style="border-radius:50%;"/></a>
   <a href="https://www.hackerrank.com/profile/Adesh_1"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50" style="border-radius:50%;"/></a>
-  <a href="https://leetcode.com/u/Adesh-1/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-leetcode-online-judge-for-coding-interviews-logo-color-tal-revivo.png" width="50" style="border-radius:50%;"/></a>
+  <a href="https://leetcode.com/u/Adesh-1/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" width="50" style="border-radius:50%;"/></a>
   <a href="https://x.com/Adesh1123"><img src="https://img.icons8.com/color/96/twitterx--v1.png" width="50" style="border-radius:50%;"/></a>
 </p>
 
