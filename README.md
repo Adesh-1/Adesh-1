@@ -47,14 +47,14 @@
 ## 📌 Pinned Projects Showcase (Custom Badges)
 
 <p align="center">
-  <a href="https://github.com/Adesh-1/java-projects/tree/main/Login-Register-Project">
-    <img src="https://img.shields.io/badge/Login%20&%20Register%20System-View%20Project-1E90FF?style=for-the-badge&logo=java&logoColor=white" />
+  <a href="https://github.com/Adesh-1/Java-Full-Stack-Project-Code">
+    <img src="https://img.shields.io/badge/Java%20Full%20Stack%20Project-View%20Project-1E90FF?style=for-the-badge&logo=java&logoColor=white" />
   </a>
   <a href="https://github.com/Adesh-1/java-projects/tree/main/sevelet-project">
     <img src="https://img.shields.io/badge/Dynamic%20Web%20App-View%20Project-32CD32?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://github.com/Adesh-1/java-projects/blob/main/CurrencyConverter.java">
-    <img src="https://img.shields.io/badge/Currency%20Converter-View%20Project-FF8C00?style=for-the-badge&logo=java&logoColor=white" />
+  <a href="https://github.com/Adesh-1/java-projects/tree/main/Login-Register-Project">
+    <img src="https://img.shields.io/badge/Login%20&%20Register%20Project-View%20Project-FF8C00?style=for-the-badge&logo=java&logoColor=white" />
   </a>
 </p>
 
