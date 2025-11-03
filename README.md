@@ -81,12 +81,10 @@
 <table>
 <tr>
 
-<!-- LEFT SIDE: LeetCode Stats -->
 <td>
-<img src="https://raw.githubusercontent.com/Adesh-1/Adesh-1/main/assets/badges/leetcode_stats.png" width="500">
+<img src="https://leetcard.jacoblin.cool/Adesh-1?theme=dark&font=source_code_pro&ext=contest&cache_seconds=3600" width="450">
 </td>
 
-<!-- RIGHT SIDE: Streak Badges -->
 <td align="center">
 <img src="https://raw.githubusercontent.com/Adesh-1/Adesh-1/main/assets/badges/100days.gif" width="150"><br><br>
 <img src="https://raw.githubusercontent.com/Adesh-1/Adesh-1/main/assets/badges/50days.gif" width="150">
@@ -94,6 +92,7 @@
 
 </tr>
 </table>
+
 
 ---
 
