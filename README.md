@@ -78,7 +78,22 @@
 
 ## 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Adesh-1?theme=dark&font=source_code_pro&ext=contest&cache_seconds=3600)
+<table>
+<tr>
+
+<!-- LEFT SIDE: LeetCode Stats -->
+<td>
+<img src="https://raw.githubusercontent.com/Adesh-1/Adesh-1/main/assets/badges/leetcode_stats.png" width="500">
+</td>
+
+<!-- RIGHT SIDE: Streak Badges -->
+<td align="center">
+<img src="https://raw.githubusercontent.com/Adesh-1/Adesh-1/main/assets/badges/100days.gif" width="150"><br><br>
+<img src="https://raw.githubusercontent.com/Adesh-1/Adesh-1/main/assets/badges/50days.gif" width="150">
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -95,7 +110,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/adesh-sachan/"><img src="https://img.icons8.com/color/96/linkedin.png" width="50" style="border-radius:50%;"/></a>
   <a href="https://github.com/Adesh-1"><img src="https://img.icons8.com/ios-glyphs/96/github.png" width="50" style="border-radius:50%;"/></a>
-  <a href="https://www.hackerrank.com/profile/Adesh_1"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50" style="border-radius:50%;"/></a>
+  <a href="https://www.hackerrank.com/profile/Adesh_1"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-logo-color-tal-revivo.png" width="50" style="border-radius:50%;"/></a>
   <a href="https://leetcode.com/u/Adesh-1/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" style="border-radius:50%; background-color:white; padding:5px;"/></a>
   <a href="https://x.com/Adesh1123"><img src="https://img.icons8.com/color/96/twitterx--v1.png" width="50" style="border-radius:50%;"/></a>
 </p>
