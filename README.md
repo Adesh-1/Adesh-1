@@ -84,11 +84,12 @@
       <img src="https://leetcard.jacoblin.cool/Adesh-1?theme=dark&font=source_code_pro&ext=contest&cache_seconds=3600" />
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="170" /><br><br> 
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="170" />
       <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="170" />
     </td>
   </tr>
 </table>
+
 
 ---
 
