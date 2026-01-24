@@ -104,11 +104,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adesh-sachan/"><img src="https://img.icons8.com/color/96/linkedin.png" width="50" style="border-radius:50%;"/></a>
-  <a href="https://github.com/Adesh-1"><img src="https://img.icons8.com/ios-glyphs/96/github.png" width="50" style="border-radius:50%;"/></a>
-  <a href="https://www.hackerrank.com/profile/Adesh_1"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-logo-color-tal-revivo.png" width="50" style="border-radius:50%;"/></a>
-  <a href="https://leetcode.com/u/Adesh-1/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" style="border-radius:50%; background-color:white; padding:5px;"/></a>
-  <a href="https://x.com/Adesh1123"><img src="https://img.icons8.com/color/96/twitterx--v1.png" width="50" style="border-radius:50%;"/></a>
+  <a href="https://www.linkedin.com/in/adesh-sachan/"><img src="https://img.icons8.com/color/96/linkedin.png" width="50" style="border-radius:50%;"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/Adesh-1"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504911.png" width="50" style="border-radius:50%;"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.hackerrank.com/profile/Adesh_1"><img src="https://imgs.search.brave.com/ly5_oLhkSP2XNzPDGwUR_cLhrrgvPYNC1nANvflvnKM/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWhhY2tlcnJhbmst/bG9nby1pY29uLXN2/Zy1kb3dubG9hZC1w/bmctMzAzMDEwMC5w/bmc_Zj13ZWJwJnc9/MTI4" width="50" style="border-radius:50%;"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://leetcode.com/u/Adesh-1/"><img src="https://img.icons8.com/?size=160&id=9L16NypUzu38&format=png" width="50" style="border-radius:50%; background-color:white; padding:5px;"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://x.com/Adesh1123"><img src="https://img.icons8.com/color/96/twitterx--v1.png" width="50" style="border-radius:50%;"/></a> &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
 ---
