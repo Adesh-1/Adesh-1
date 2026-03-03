@@ -86,6 +86,7 @@
     <td align="center">
       <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="170" />
       <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="170" />
+      <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="170" />
     </td>
   </tr>
 </table>
