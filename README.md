@@ -87,6 +87,7 @@
       <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="140" />
       <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="140" />
       <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="140" />
+      <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="140" />
     </td>
   </tr>
 </table>
