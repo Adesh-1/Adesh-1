@@ -84,10 +84,10 @@
       <img src="https://leetcard.jacoblin.cool/Adesh-1?theme=dark&font=source_code_pro&ext=contest&cache_seconds=3600" />
     </td>
     <td align="center">
-      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="140" />
-      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="140" />
-      <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="140" />
-      <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="140" />
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120" />
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120" />
+      <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="120" />
+      <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="120" />
     </td>
   </tr>
 </table>
